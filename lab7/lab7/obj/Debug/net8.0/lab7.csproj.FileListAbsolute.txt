@@ -1,0 +1,15 @@
+C:\projects\cs for stgau\lab7\lab7\bin\Debug\net8.0\lab7.exe
+C:\projects\cs for stgau\lab7\lab7\bin\Debug\net8.0\lab7.deps.json
+C:\projects\cs for stgau\lab7\lab7\bin\Debug\net8.0\lab7.runtimeconfig.json
+C:\projects\cs for stgau\lab7\lab7\bin\Debug\net8.0\lab7.dll
+C:\projects\cs for stgau\lab7\lab7\bin\Debug\net8.0\lab7.pdb
+C:\projects\cs for stgau\lab7\lab7\obj\Debug\net8.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\cs for stgau\lab7\lab7\obj\Debug\net8.0\lab7.AssemblyInfoInputs.cache
+C:\projects\cs for stgau\lab7\lab7\obj\Debug\net8.0\lab7.AssemblyInfo.cs
+C:\projects\cs for stgau\lab7\lab7\obj\Debug\net8.0\lab7.csproj.CoreCompileInputs.cache
+C:\projects\cs for stgau\lab7\lab7\obj\Debug\net8.0\lab7.sourcelink.json
+C:\projects\cs for stgau\lab7\lab7\obj\Debug\net8.0\lab7.dll
+C:\projects\cs for stgau\lab7\lab7\obj\Debug\net8.0\refint\lab7.dll
+C:\projects\cs for stgau\lab7\lab7\obj\Debug\net8.0\lab7.pdb
+C:\projects\cs for stgau\lab7\lab7\obj\Debug\net8.0\lab7.genruntimeconfig.cache
+C:\projects\cs for stgau\lab7\lab7\obj\Debug\net8.0\ref\lab7.dll
